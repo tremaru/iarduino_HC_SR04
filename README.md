@@ -21,10 +21,10 @@
 
 ## Назначение функций:
 
-**Подробное описание работы с библиотекой и примеры смотрите на [нашем сайте]()**
+**Подробное описание работы с библиотекой и примеры смотрите на [нашем сайте](https://wiki.iarduino.ru/page/ultrazvukovoy-datchik-izmereniya-rasstoyaniya-hc-sr04/#h3_6)**
 
 ```C++
-#include <iarduino_HC_SR04_int.h> // Подключаем библиотеку
+#include <iarduino_HC_SR04.h> // Подключаем библиотеку
 iarduino_HC_SR04_int ОБЪЕКТ( ВЫВОД_TRIG , ВЫВОД_ECHO ); // Создаём объект.
 ```
 
